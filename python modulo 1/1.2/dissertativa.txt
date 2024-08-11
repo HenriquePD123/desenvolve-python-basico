@@ -1,0 +1,5 @@
+1: Leia o número que o usuário quer multiplicar por 9 e armazene seu valor (n).
+2: Execute a operação n-1 e armazene seu valor (n1)
+3: Execute a operação 10-n e armazene seu valor (n2)
+4: Execute a operação (n1*10) + n2 e armazene o resultado (r)
+5: Imprima o resultado (r) e encerre o programa   
